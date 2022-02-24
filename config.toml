@@ -1,4 +1,4 @@
-baseURL = "/lise"
+baseURL = "/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
